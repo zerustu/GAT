@@ -417,11 +417,13 @@
         "name": "Anti-Cube\nLT A RT Up Down LT RT A",
         "chest_unopened_img": "images/icons/anti.png",
         "chest_opened_img": "images/icons/anti_collected.png",
+        "access_rules": ["[know_tetro]", "[skip_knowledge]"]
       },
       {
         "name": "Chest",
         "chest_unopened_img": "images/icons/chest.png",
         "chest_opened_img": "images/icons/chest_collected.png",
+        "access_rules": ["[tree_map]", "[skip_knowledge]", "[scrambled_tetro]"]
       }
     ]
   }

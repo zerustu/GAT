@@ -170,6 +170,7 @@
             "name": "Anti-Cube\nUp RT Left A Right LT Down RT",
             "chest_unopened_img": "images/icons/anti.png",
             "chest_opened_img": "images/icons/anti_collected.png",
+            "access_rules": ["[skip_knowledge]", "[know_tetro]"]
           },
           {
             "name": "Map",
