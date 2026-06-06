@@ -31,8 +31,12 @@
                 "rows": [
                     [
                         "goal",
-                        "clock_shuffle",
-                        "knowledge"
+                        "clock_shuffle"
+                        
+                    ],
+                    [
+                        "knowledge",
+                        "Scrambled"
                     ]
                 ]
             }
